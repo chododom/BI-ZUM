@@ -1,0 +1,3 @@
+/home/users/c/chododom/Documents/ZUM/bi-zum/State space search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/users/c/chododom/Documents/ZUM/bi-zum/State space search/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/users/c/chododom/Documents/ZUM/bi-zum/State space search/cmake-build-debug/CMakeFiles/State_space_search.dir

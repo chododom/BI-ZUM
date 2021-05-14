@@ -1,0 +1,65 @@
+(work hero docks grain work)
+
+(move hero docks inn)
+
+(buyalcohol hero inn grain alcohol)
+
+(move hero inn docks)
+
+(move hero docks river)
+
+(move hero river forest)
+
+(fightbear hero forest bear bearskin impressive tough)
+
+(getwood hero forest wood)
+
+(makeboat hero boat wood seatravel)
+
+(getwood hero forest wood)
+
+(getmap hero forest wizard map goodreputation alcohol)
+
+(move hero forest river)
+
+(move hero river docks)
+
+(tradebearskin hero docks bearskin coin trade)
+
+(makecaravel hero wood boat coin caravel seatravel)
+
+(moveonsea hero docks sea seatravel)
+
+(kickpiratesass hero sea tough caravel grain coin brick seatravel boat frigate impressive pirates kickedpiratesass)
+
+(joinpirates hero sea tough pirate littledrunk pirates)
+
+(moveonsea hero sea docks seatravel)
+
+(meetsmugglers hero docks goodreputation brick metsmugglers smugglers)
+
+(move hero docks inn)
+
+(buyalcohol hero inn grain alcohol)
+
+(move hero inn docks)
+
+(work hero docks grain work)
+
+(getdrunk hero alcohol littledrunk drunk)
+
+(move hero docks inn)
+
+(buyalcohol hero inn grain alcohol)
+
+(getabsolutelywasted hero alcohol drunk addicted)
+
+(move hero inn docks)
+
+(moveonsea hero docks sea seatravel)
+
+(moveonsea hero sea island seatravel)
+
+(getcocaine hero island cocaine map addicted frigate metsmugglers brick)
+
+; cost = 32 (unit cost)

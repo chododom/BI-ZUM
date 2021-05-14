@@ -1,0 +1,35 @@
+(move hero docks river)
+
+(move hero river forest)
+
+(fightbear hero forest bear bearskin impressive tough)
+
+(getwood hero forest wood)
+
+(makeboat hero boat wood seatravel)
+
+(getwood hero forest wood)
+
+(move hero forest river)
+
+(move hero river docks)
+
+(tradebearskin hero docks bearskin coin trade)
+
+(makecaravel hero wood boat coin caravel seatravel)
+
+(moveonsea hero docks sea seatravel)
+
+(kickpiratesass hero sea tough caravel grain coin brick seatravel boat frigate impressive pirates kickedpiratesass)
+
+(moveonsea hero sea docks seatravel)
+
+(move hero docks town)
+
+(move hero town academyloc)
+
+(enrollinacademy hero academyloc coin impressive captain academy criminalrecord)
+
+(becomeadmiral hero academyloc captain littledrunk drunk addicted kickedpiratesass admiral)
+
+; cost = 17 (unit cost)

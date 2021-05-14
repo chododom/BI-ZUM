@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/users/c/chododom/Documents/ZUM/bi-zum/State space search/main.cpp
+iostream
+-
+stdlib.h
+-
+vector
+-
+climits
+-
+queue
+-
+stack
+-
+cmath
+-
+thread
+-
+chrono
+-
+

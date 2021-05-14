@@ -1,0 +1,33 @@
+(move hero docks river)
+
+(move hero river forest)
+
+(fightbear hero forest bear bearskin impressive tough)
+
+(getflowers hero forest flower)
+
+(getwood hero forest wood)
+
+(makeboat hero boat wood seatravel)
+
+(move hero forest river)
+
+(move hero river docks)
+
+(tradebearskin hero docks bearskin coin trade)
+
+(moveonsea hero docks sea seatravel)
+
+(getperl hero sea perl)
+
+(moveonsea hero sea docks seatravel)
+
+(move hero docks town)
+
+(invest hero town coin brick goodreputation investment)
+
+(makering hero brick perl ring)
+
+(marry hero island impressive ring flower goodreputation criminalrecord drunk addicted married)
+
+; cost = 16 (unit cost)

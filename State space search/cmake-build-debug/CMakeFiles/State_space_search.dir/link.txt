@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/State_space_search.dir/main.cpp.o  -o State_space_search 
